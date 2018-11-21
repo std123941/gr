@@ -7,7 +7,7 @@ categories:
   - case-study
   - tools
 tags:
-  - Microsoft Surface
+  - microsoft surface
   - failure
 gallery:
   - image_url: /images/microsoft-surface-coffee-table1.jpg
@@ -24,7 +24,6 @@ gallery:
   - image_url: /images/microsoft-surface-coffee-table6.jpg
     caption: "Πολλές εταιρείες έχουν χρησιμοποιήσει το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) σε ξενοδοχεία, εστιατόρια και καταστήματα λιανικής πώλησης για δραστηριότητες όπως, η επιλογή γευμάτων σε εστιατόρια, ο προγραμματισμός διακοπών, η πληρωμή υπηρεσιών και προϊόντων για μουσική, βιβλία και άλλες παροχές με τους χρήστες να πρέπει απλά να ρίξουν μια πιστωτική κάρτα στην επιφάνεια του τραπεζιού. 
     Σε ορισμένα ξενοδοχεία και καζίνο, οι χρήστες είχαν τη δυνατότητα να χρησιμοποιήσουν λειτουργίες, όπως η προβολή βίντεο παρακολούθησης, η προβολή χαρτών, η παραγγελία ποτών, η συμμετοχή σε παιχνίδια αλλά και η συνομιλία και το φλερτ με ανθρώπους μεταξύ διαφορετικών επιφανειών."  
-
 ---
 
 {% include_relative cs-microsoft_surface_coffee_table.md %}
