@@ -1,4 +1,4 @@
----
+"---
 author: dsklab
 title: "Microsoft Surface Coffee Table (Microsoft SurfacePixelSence)"
 image_url: /images/microsoft-surface-coffee-table2.jpg
@@ -10,17 +10,17 @@ tags:
   - microsoft surface
   - failure
 gallery:
-  - image_url: /images/microsoft-surface-coffee-table1.jpg"
+  - image_url: /images/"microsoft-surface-coffee-table1.jpg"
     caption: "Το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) είναι μια πλατφόρμα υπολογιστικής επιφάνειας που ανταποκρίνεται στις φυσικές χειρονομίες και τα αντικείμενα του πραγματικού κόσμου. Διαθέτει διεπαφή χρήστη 360 μοιρών, ανακλαστική επιφάνεια 30 ιντσών (76 εκ.) με προβολέα XGA DLP κάτω από την επιφάνεια που προβάλλει μια εικόνα στην κάτω πλευρά της, ενώ πέντε κάμερες στο περίβλημα της μηχανής αντανακλούν το υπέρυθρο φως από αντικείμενα και ανθρώπινα τα δάχτυλα στην επιφάνεια.Οι οπτικές δυνατότητες των φωτογραφικών μηχανών επιτρέπουν στο προϊόν να συλλαμβάνει μέσω IR μια εικόνα των αντικειμένων που τοποθετούνται κοντά στην οθόνη, με ρυθμό περίπου 60 φορές το δευτερόλεπτο."
-  - image_url: /images/microsoft-surface-coffee-table3.jpg"
+  - image_url: /images/"microsoft-surface-coffee-table3.jpg"
     caption: "Χρησιμοποιώντας τις ειδικά σχεδιασμένες ετικέτες επιφανειών "στυλ" σε αντικείμενα, το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) μπορεί να προσφέρει μια ποικιλία χαρακτηριστικών, για παράδειγμα προσφέροντας αυτόματα πρόσθετες επιλογές κρασιού προσαρμοσμένες στο δείπνο που καταναλώνεται ανάλογα με τον τύπο οίνου που έχει οριστεί στην επιφάνεια ή σε συνδυασμό με έναν κωδικό πρόσβασης, προσφέροντας ταυτότητα χρήστη."
-  - image_url: /images/microsoft-surface-coffee-table3.png"
+  - image_url: /images/"microsoft-surface-coffee-table3.png"
     caption: "Το σύστημα όρασης του Microsoft Surface Coffee Table (Microsoft Surface PixelSense) μπορεί να δει τι συμβαίνει στην επιφάνεια εργασίας. Αυτό επιτρέπει τη χρήση όλων των φυσικών διεπαφών χρήστη τόσο με αντικείμενα καθημερινής όσο και αντικειμένων ειδικά κατασκευασμένα για να δουλεύουν με την επιφάνεια."
-  - image_url: /images/microsoft-surface-coffee-table4.jpg"
+  - image_url: /images/"microsoft-surface-coffee-table4.jpg"
     caption: "Το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) διατηρεί όλες τις φυσικές ιδιότητες και τα πλεονεκτήματα ενός κανονικού τραπεζιού. Η επιφάνεια του είναι ιδιαίτερα ανθεκτική, ώστε οι χρήστες να το χρησιμοποιούν ως κανονικό τραπέζι χωρίς το φόβο ότι πρόκειται να καταστρέψουν τη συσκευή."
-  - image_url: /images/microsoft-surface-coffee-table5.jpg"
+  - image_url: /images/"microsoft-surface-coffee-table5.jpg"
     caption: "Η επιφάνεια του Microsoft Surface Coffee Table (Microsoft Surface PixelSense) είναι ικανή στην αναγνώριση αντικειμένων, στην αναγνώριση και παρακολούθηση προσανατολισμού αντικειμένων - δακτύλων και είναι multi-touch για πολλαπλούς χρήστες, οι οποίοι μπορούν να αλληλεπιδρούν με το μηχάνημα αγγίζοντας ή σύροντας τα άκρα των δακτύλων τους και αντικείμενα όπως πινέλα στην οθόνη ή τοποθετώντας και μετακινώντας τοποθετημένα αντικείμενα. Αυτό το παράδειγμα αλληλεπίδρασης με τους υπολογιστές είναι γνωστό ως φυσικό περιβάλλον εργασίας χρήστη (NUI)."  
-  - image_url: /images/microsoft-surface-coffee-table6.jpg"
+  - image_url: /images/"microsoft-surface-coffee-table6.jpg"
     caption: "Πολλές εταιρείες έχουν χρησιμοποιήσει το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) σε ξενοδοχεία, εστιατόρια και καταστήματα λιανικής πώλησης για δραστηριότητες όπως, η επιλογή γευμάτων σε εστιατόρια, ο προγραμματισμός διακοπών, η πληρωμή υπηρεσιών και προϊόντων για μουσική, βιβλία και άλλες παροχές με τους χρήστες να πρέπει απλά να ρίξουν μια πιστωτική κάρτα στην επιφάνεια του τραπεζιού. Σε ορισμένα ξενοδοχεία και καζίνο, οι χρήστες είχαν τη δυνατότητα να χρησιμοποιήσουν λειτουργίες, όπως η προβολή βίντεο παρακολούθησης, η προβολή χαρτών, η παραγγελία ποτών, η συμμετοχή σε παιχνίδια αλλά και η συνομιλία και το φλερτ με ανθρώπους μεταξύ διαφορετικών επιφανειών."  
 ---
 
