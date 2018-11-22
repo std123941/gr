@@ -1,14 +1,14 @@
 ---
 author: dsklab
-title: "Microsoft Surface Coffee Table (Microsoft SurfacePixelSence)"
-image_url: /images/ipod_1g.png
+title: "Microsoft Surface Coffee Table (Microsoft Surface PixelSence)"
+image_url: /images/microsoft-surface-coffee-table2.jpg
 caption: "Το Microsoft Surface Coffee Table (Microsoft Surface PixelSense) ήταν μια πρωτοποριακή συσκευή αλληλεπίδρασης με το χρήστη, που συνδύαζε τα πλεονεκτήματα μιας κοινής επιφάνειας τραπεζιού με τα πλεονεκτήματα του ψηφιακού κόσμου. Επρόκειτο για ένα διαδραστικό τραπέζι, που ως προϊόν απευθυνόταν κυρίως στις εμπορικές αγορές που επιδίωκαν να το χρησιμοποιήσουν σε δημόσιους χώρους, όπως καταστήματα, μπαρ, ξενοδοχεία, καζίνο, σημεία λιανικής πώλησης τόσο για ψυχαγωγικούς όσο και για πρακτικούς σκοπούς. Ως εκ τούτου, αυτό το έκανε εξαιρετικά σπάνιο και μη διαθέσιμο στους λιανικούς καταναλωτές. Εξάλλου ποιος κανονικός άνθρωπος θα ήθελε να ξοδέψει 10.000 $ για ένα τραπέζι."
 categories:
   - case-study
-  - archetypes
+  - tools
 tags:
-  - apple
-  - ipod
+  - microsoft surface coffee table
+  - microsoft surface pixelsence
 gallery:
   - image_url: /images/"ipod_1g.png"
     caption: "Η πρώτη γενιά iPod εισάγει έναν νέο τρόπο πλοήγησης σε μεγάλες λίστες (μενού) αρχείων μουσικής, τον περιστρεφόμενο τροχό."
