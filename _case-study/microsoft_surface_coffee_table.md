@@ -1,4 +1,4 @@
-"---
+---
 author: dsklab
 title: "Microsoft Surface Coffee Table (Microsoft SurfacePixelSence)"
 image_url: /images/microsoft-surface-coffee-table2.jpg
